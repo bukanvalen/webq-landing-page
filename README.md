@@ -1,6 +1,6 @@
 # Credits and Attributions 
 
-Template: **[Aria](https://onepagelove.com/aria)** by **[Inovatik](https://inovatik.com/)**
+### Template: **[Aria](https://onepagelove.com/aria)** by **[Inovatik](https://inovatik.com/)**
 
 **[Photo 1](https://www.pexels.com/photo/green-and-yellow-printed-textile-330771/)** by **[Markus Spiske](https://www.pexels.com/@markusspiske?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com)**
 
